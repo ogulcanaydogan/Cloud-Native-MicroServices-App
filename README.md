@@ -1,18 +1,4 @@
-ca# Hands-on Kubernetes-06 : Deploying Microservices and Service Level Autoscaling
-
-Purpose of the this hands-on training is to give students the knowledge of  Autoscaling and Microservices
-
-## Learning Outcomes
-
-At the end of the this hands-on training, students will be able to;
-
-- Understand deployment and management of microservices
-
-- Explain the Kubernetes Autoscaling
-
-- Explain Horizontal Pod Autoscaler Business Logic
-
-- Understand the Need for Metric Server
+Deploying Microservices and Service Level Autoscaling
 
 ## Outline
 
@@ -513,3 +499,4 @@ $ kubectl get deployment
 https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale-walkthrough/
 
 https://www.digitalocean.com/community/tutorials/webinar-series-deploying-and-scaling-microservices-in-kubernetes
+
